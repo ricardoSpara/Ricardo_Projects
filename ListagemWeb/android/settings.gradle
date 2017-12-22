@@ -1,0 +1,3 @@
+rootProject.name = 'ListagemWeb'
+
+include ':app'
